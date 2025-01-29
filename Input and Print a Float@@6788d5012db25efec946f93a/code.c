@@ -1,10 +1,11 @@
 #include <stdio.h>
-
-char* welcome() {
-    return "Welcome to Code Radar!";
-}
-
-int main() {
-    printf("%s", welcome());
+int main()
+{
+    float;
+    printf("value = ",&value);
+    scanf("%f",value);
+    printf(" value = %f")
     return 0;
+
+
 }
