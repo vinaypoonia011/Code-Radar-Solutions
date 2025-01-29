@@ -1,10 +1,9 @@
 #include <stdio.h>
 int main()
 {
-    float;
-    printf("value = ",&value);
-    scanf("%f",value);
-    printf(" value = %f")
+    float value;
+    scanf("%f",&value);
+    printf("You entered: %.2f\n", value);
     return 0;
 
 
