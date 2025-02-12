@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main(){
-    float num;
-    printf("eneter any number:",num);
-    scanf("f",&num);
-    printf("double :",num*2);
+    float number;
+    printf("eneter any number:",number);
+    scanf("f",&number);
+    printf("double :",number*2);
     return 0;
 }
