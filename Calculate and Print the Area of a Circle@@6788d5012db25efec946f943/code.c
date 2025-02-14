@@ -3,6 +3,6 @@ int main(){
     float r,area;
     scanf("%f",&r);
     area=3.14*r*r;
-    printf("area=%f",area);
+    printf("Area: %f",area);
     return 0;
 }
