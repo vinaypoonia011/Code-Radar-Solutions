@@ -5,5 +5,5 @@ int main(){
     printf("Name: %c\n",Name);
     printf("Hobby: %s\n",Hobby);
     printf("Age: %d\n",Age);
-    Return 0;
+    return 0;
 }
