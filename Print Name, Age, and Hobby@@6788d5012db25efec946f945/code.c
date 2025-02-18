@@ -2,8 +2,8 @@
 int main(){
     char Name[100],char Hobby[100],int Age;
     scanf("%s %d %s",&Name,&Age,&Hobby);
-    printf("Name: %s\n",Name);
-    printf("Hobby: %d\n",Age);
-    printf("Age: %s\n",Hobby);
+    printf("Name: %s",Name);
+    printf("Age: %d\n",Age);
+    printf("Hobby: %s\n",Hobby);
     return 0;
 }
