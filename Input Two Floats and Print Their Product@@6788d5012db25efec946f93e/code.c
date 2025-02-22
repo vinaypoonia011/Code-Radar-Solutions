@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main() {
-    float num1, num2 product;
+    float num1, num2, product;
 
     // Taking input
-    scanf("%f %f", &num1, &num2);
+    scanf("%f %f" &num1, &num2);
 
     // Calculating product
     product = num1 * num2;
