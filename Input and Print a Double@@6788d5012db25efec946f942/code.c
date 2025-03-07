@@ -1,8 +1,6 @@
 #include<stdio.h>
 int main(){
     float number;
-    scanf(".4f",&number);
-    printf("double :",number*2);
-    scanf("")
+    scanf(".%4f",&number);;
     return 0;
 }
